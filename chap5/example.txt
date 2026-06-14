@@ -1,3 +1,4 @@
 First line!
 Second line!
-Last in line!
+Last in line!Added line!
+ This goes to writings.txt! which was created earlier.
