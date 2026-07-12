@@ -3,5 +3,4 @@ class Player:
         self.teamcolor=teamcolor
         self.points=points
 player =Player("Blue", 300)
-print(player.teamcolor)
-print(player.points)
+print(f"The {player.teamcolor} contender has {player.points} points!")
